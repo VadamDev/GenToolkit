@@ -1,0 +1,7 @@
+name: GenToolkit
+version: 0.1.0
+author: VadamDev
+
+depend: [VIAPI]
+main: net.vadamdev.gentoolkit.Main
+load: STARTUP

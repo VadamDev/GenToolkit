@@ -1,0 +1,13 @@
+biomeReplacer:
+  BeachReplacer:
+    from: BEACH
+    to: PLAINS
+  OceanReplacer:
+    from: OCEAN
+    to: PLAINS
+  DeepOceanReplacer:
+    from: DEEP_OCEAN
+    to: FOREST
+  FrozenOceanReplacer:
+    from: FROZEN_OCEAN
+    to: COLD_TAIGA
